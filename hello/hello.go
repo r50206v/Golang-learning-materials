@@ -17,7 +17,7 @@ import (
 
 func main(){
 	fmt.Printf("hello, world!\n")
-	fmt.Printf(t.Now())
+	fmt.Println(t.Now())
 }
 /*
 	a main function is special, a file that has a 
